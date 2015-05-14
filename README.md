@@ -7,3 +7,6 @@
 3. 使用Intent启动相应应用分享安装包
 
 ## 运行效果
+![Alt text](http://img.blog.csdn.net/20150514141443486)
+![Alt text](http://img.blog.csdn.net/20150514141307413)
+![Alt text](http://img.blog.csdn.net/20150514141316086)
